@@ -80,10 +80,10 @@ I am a skilled frontend engineer with expertise in React and its surrounding eco
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farouk-ayo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </td></tr>
-![](https://github-readme-streak-stats.herokuapp.com/?user=farouk-ayo&theme=dark&hide_border=true)
 </table>  
-<br/>
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=farouk-ayo&theme=dark&hide_border=true)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=farouk-ayo&icon=0&color=0)](https://visitcount.itsvg.in)//
