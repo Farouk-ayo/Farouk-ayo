@@ -32,7 +32,6 @@
 ### Welcome to my Github profile!  
 I am a skilled frontend engineer with expertise in React and its surrounding ecosystem, including Redux, Material UI, and more. With a strong focus on using Next.js to build performant and scalable web applications.  
   
-
 <br/>  
 
 - 🌱 I’m currently learning TypeScript and Node js.  
@@ -73,6 +72,8 @@ I am a skilled frontend engineer with expertise in React and its surrounding eco
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
 </div>  
+ 
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farouk-ayo&show_icons=true&locale=en&layout=compact" alt="farouk-ayo" /></p>
 
