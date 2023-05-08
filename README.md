@@ -70,8 +70,13 @@ I am a skilled frontend engineer with expertise in React and its surrounding eco
  
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farouk-ayo&show_icons=true&locale=en&layout=compact" alt="farouk-ayo" /></p>
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farouk-ayo&show_icons=true&locale=en" alt="farouk-ayo" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=farouk-ayo&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farouk-ayo&" alt="farouk-ayo" /></p>
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farouk-ayo&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
