@@ -25,14 +25,9 @@
 <a href="https://medium.com/Faroukayo" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Welcome to my Github profile!  
 I am a skilled frontend engineer with expertise in React and its surrounding ecosystem, including Redux, Material UI, and more. With a strong focus on using Next.js to build performant and scalable web applications.  
-  
-<br/>  
 
 - 🌱 I’m currently learning TypeScript and Node js.  
   
