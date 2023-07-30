@@ -83,7 +83,7 @@ I am a skilled frontend engineer with expertise in React and its surrounding eco
 </table>  
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=farouk-ayo&theme=dark&hide_border=true)<br/>
+<!---![](https://github-readme-streak-stats.herokuapp.com/?user=farouk-ayo&theme=dark&hide_border=true)<br/>
 
 ---
 <!---
