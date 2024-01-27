@@ -28,7 +28,7 @@
 
 ### Welcome to my Github profile!  
 I'm a skilled frontend engineer who's really good with JavaScript and TypeScript. I'm an expert in React and its related stuff like Redux and React Router. I use all this knowledge to build websites and webapps that work well and can handle a lot of users, thanks to my know-how with Next.js.  
-- I love making designs and ideas into cool experiences for people using the web. My journey in web development has been a mix of coming up with new things and working closely with designers and backend developers to make those ideas real. 
+I love making designs and ideas into cool experiences for people using the web. My journey in web development has been a mix of coming up with new things and working closely with designers and backend developers to make those ideas real. 
 
 - 🌱 I’m currently learning Node js.
   
