@@ -1,5 +1,9 @@
 ## Hey 👋, I'm Farouk!  
-  
+
+  <a href="https://docs.google.com/document/d/1bp5RxbPMA8RHlcUGZIOXIKQ8I1wzLx3MvOQLXVlf8SQ/edit?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/resume-Click%20Here-brightgreen?style=for-the-badge" alt="resume" style="margin-bottom: 5px;" />
+</a>
+
 
 <a href="https://github.com/farouk-ayo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -25,9 +29,6 @@
 <a href="https://medium.com/@Faroukayo" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-<a href="https://docs.google.com/document/d/1bp5RxbPMA8RHlcUGZIOXIKQ8I1wzLx3MvOQLXVlf8SQ/edit?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/resume-Click%20Here-brightgreen?style=for-the-badge" alt="resume" style="margin-bottom: 5px;" />
-</a>
 
 ### Welcome to my Github profile!  
 I'm a skilled frontend engineer who's really good with JavaScript and TypeScript. I'm an expert in React and its related stuff like Redux and React Router. I use all this knowledge to build websites and webapps that work well and can handle a lot of users, thanks to my know-how with Next.js.  
