@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/resume-Click%20Here-brightgreen?style=for-the-badge" alt="resume" style="margin-bottom: 5px;" />
 </a>
 
+<br/>
 
 <a href="https://github.com/farouk-ayo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
