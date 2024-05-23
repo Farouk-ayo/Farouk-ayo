@@ -25,7 +25,7 @@
 <a href="https://medium.com/@Faroukayo" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-<a href="[https://your-resume-link.com](https://docs.google.com/document/d/1bp5RxbPMA8RHlcUGZIOXIKQ8I1wzLx3MvOQLXVlf8SQ/edit?usp=sharing)" target="_blank">
+<a href="https://docs.google.com/document/d/1bp5RxbPMA8RHlcUGZIOXIKQ8I1wzLx3MvOQLXVlf8SQ/edit?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/resume-Click%20Here-brightgreen?style=for-the-badge" alt="resume" style="margin-bottom: 5px;" />
 </a>
 
