@@ -41,7 +41,7 @@ I love making designs and ideas into cool experiences for people using the web. 
 
 - 📫 How to reach me **mustaphafarouk41@gmail.com**
 
-- ⚡ Fun fact: I take my work seriously, but that doesn't mean I can't have a bit of fun along the way.  
+- ⚡ Fun fact: I take my work seriously, but that doesn't mean I can't enjoy a bit of fun along the way.  
 
 
 ## Languages and Tools  
