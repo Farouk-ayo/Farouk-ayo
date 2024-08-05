@@ -1,4 +1,5 @@
 ## Hey 👋, I'm Farouk!  
+
 <a href="https://github.com/farouk-ayo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -26,10 +27,7 @@
 
 ### Welcome to my Github profile!  
 Farouk is a Frontend Developer with over 2years of experience in the field. I have developed web applications using JavaScript and TypeScript. 
-I love making designs and ideas into cool experiences for people using the web. I have contributed to numerous projects, collaborating with product designers, backend developers, DevOps, and other tech professionals. My journey in web development has been a mix of coming up with new things and working closely with designers and backend developers to make those ideas real. 
- I have a strong passion for learning and teaching, and am always updated with the latest advancements in technology.
-
- to add more to my skillset, and i am open to new opportunities.
+I love making designs and ideas into cool experiences for people using the web. I have contributed to numerous projects, collaborating with product designers, backend developers, DevOps, and other tech professionals. My journey in web development has been a mix of coming up with new things and working closely with designers and backend developers to make those ideas real. I have a strong passion for learning and teaching, and am always updated with the latest advancements in technology.
 
 
 - 🌱 I'm currently learning about Node.js
