@@ -1,11 +1,4 @@
 ## Hey 👋, I'm Farouk!  
-
-  <a href="https://docs.google.com/document/d/1bp5RxbPMA8RHlcUGZIOXIKQ8I1wzLx3MvOQLXVlf8SQ/edit?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/resume-Click%20Here-brightgreen?style=for-the-badge" alt="resume" style="margin-bottom: 5px;" />
-</a>
-
-<br/>
-
 <a href="https://github.com/farouk-ayo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -32,17 +25,18 @@
 </a>  
 
 ### Welcome to my Github profile!  
-I'm a skilled frontend engineer who's really good with JavaScript and TypeScript. I'm an expert in React and its related stuff like Redux and React Router. I use all this knowledge to build websites and webapps that work well and can handle a lot of users, thanks to my know-how with Next.js.  
-I love making designs and ideas into cool experiences for people using the web. My journey in web development has been a mix of coming up with new things and working closely with designers and backend developers to make those ideas real. 
+Farouk is a Frontend Developer with over 2years of experience in the field. I have developed web applications using JavaScript and TypeScript. 
+I love making designs and ideas into cool experiences for people using the web. I have contributed to numerous projects, collaborating with product designers, backend developers, DevOps, and other tech professionals. My journey in web development has been a mix of coming up with new things and working closely with designers and backend developers to make those ideas real. 
+ I have a strong passion for learning and teaching, and am always updated with the latest advancements in technology.
 
-- 🌱 I’m currently learning Node js.
+ to add more to my skillset, and i am open to new opportunities.
+
+
+- 🌱 I'm currently learning about Node.js
   
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 And i am open to new opportunities.
 
-- 📫 How to reach me **mustaphafarouk41@gmail.com**
-
-- ⚡ Fun fact: I take my work seriously, but that doesn't mean I can't enjoy a bit of fun along the way.  
-
+- 📫 Email: @**mustaphafarouk41@gmail.com** 
 
 ## Languages and Tools  
 <div align="center">  
