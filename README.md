@@ -26,7 +26,7 @@
 </a>  
 
 ### Welcome to my Github profile!  
-Farouk is a Frontend Developer with over 2years of experience in the field. I have developed web applications using JavaScript and TypeScript. 
+Farouk is a Frontend Developer with over 3years of experience in the field. I have developed web applications using JavaScript and TypeScript. 
 I love making designs and ideas into cool experiences for people using the web. I have contributed to numerous projects, collaborating with product designers, backend developers, DevOps, and other tech professionals. My journey in web development has been a mix of coming up with new things and working closely with designers and backend developers to make those ideas real. I have a strong passion for learning and teaching, and am always updated with the latest advancements in technology.
 
 
