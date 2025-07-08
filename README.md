@@ -26,8 +26,9 @@
 </a>  
 
 ### Welcome to my Github profile!  
-Farouk is a Frontend Developer with over 3years of experience in the field. I have developed web applications using JavaScript and TypeScript. 
-I love making designs and ideas into cool experiences for people using the web. I have contributed to numerous projects, collaborating with product designers, backend developers, DevOps, and other tech professionals. My journey in web development has been a mix of coming up with new things and working closely with designers and backend developers to make those ideas real. I have a strong passion for learning and teaching, and am always updated with the latest advancements in technology.
+I'm Farouk Mustapha, a Frontend Developer based in Lagos, Nigeria, with over 3 years of experience building web and mobile apps. I work mostly with JavaScript, TypeScript, React, React Native, and Next.js, turning ideas and designs into clean, functional user interfaces.I have a strong passion for learning and teaching, and am always updated with the latest advancements in technology.
+
+Outside of code, I play chess, watch anime, and constantly look for better ways to solve problems. I genuinely enjoy building things and no matter what happens, I’ll always be an engineer.
 
 
 - 🌱 I'm currently learning about Node.js
