@@ -26,13 +26,28 @@
 </a>  
 
 ### Welcome to my Github profile!  
-I'm Farouk Mustapha, a Software Developer based in Lagos, Nigeria, with over 3 years of experience building web and mobile apps. I work mostly with JavaScript, TypeScript, React, React Native, Next.js and Nodejs, turning ideas and designs into clean, functional user interfaces.I have a strong passion for learning and teaching, and am always updated with the latest advancements in technology.
+I’m a Software Developer and Computational Engineering enthusiast with over 3 years of experience building web & mobile app, and 3D simulation systems using JavaScript and TypeScript.
 
+My work sits at the intersection of software engineering, materials science, and computational simulation. I’ve developed real-time 3D platforms powered by WebGL and Three.js, engineered mesh-driven systems for deformation and fitting simulations, and contributed to scalable full-stack applications across multiple industries.
+
+Alongside my software work, I hold a background in Materials Engineering where my research focused on fibre-reinforced polymer composites. My thesis integrated experimental mechanical testing (Instron / Blue-Hill) with ANSYS-based Finite Element Analysis to study deformation behavior and simulation validation. This blend of experimental and computational experience shapes how I approach engineering problems today.
+
+I enjoy transforming complex ideas, whether design concepts or engineering models into interactive, high-performance digital experiences. I’ve collaborated with product designers, developers, and DevOps teams to deliver production-ready systems, simulation tools, and visualization platforms.
+
+My core interests include:
+
+• Composite Materials & Polymer Systems
+• FEA & Computational Materials Engineering
+• 3D Simulation, Mesh Processing & Software Development
+
+I’m passionate about continuous learning, interdisciplinary collaboration, and building technology that bridges physical engineering with computational innovation.
 Outside of code, I play chess, watch anime, and constantly look for better ways to solve problems. I genuinely enjoy building things and no matter what happens, I’ll always be an engineer.
-  
-- 👯 And i am open to new opportunities.
+
 
 - 📫 Email: @**mustaphafarouk41@gmail.com** 
+
+  
+
 
 ## Languages and Tools  
 <div align="center">  
