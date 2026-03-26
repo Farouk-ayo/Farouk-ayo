@@ -28,9 +28,7 @@
 ### Welcome to my Github profile!  
 I'm a Software Developer and a Computational Engineering enthusiast based in Lagos, Nigeria, with over 3 years of experience building web and mobile apps. I work mostly with JavaScript, TypeScript, Python, React, React Native, Next.js, and Nodejs, turning ideas and designs into clean, functional user interfaces.
 
-My work sits at the intersection of software engineering, 3D graphics, and computational modeling. I enjoy developing systems where code interacts with geometry, physics, or real-world engineering problems. 
-
-Alongside my software work, I hold a background in Materials Engineering where my research focused on fibre-reinforced polymer composites. My thesis integrated experimental mechanical testing (Instron / Blue-Hill) with ANSYS-based Finite Element Analysis to study deformation behavior and simulation validation. This blend of experimental and computational experience shapes how I approach engineering problems today.
+My work sits at the intersection of software, 3D graphics, and computational engineering. I enjoy developing systems where code interacts with geometry, physics, or real-world engineering problems. 
 
 I enjoy transforming complex ideas, whether design concepts or engineering models into interactive, high-performance digital experiences. I’ve collaborated with product designers, 3D artists, developers, and DevOps teams to deliver production-ready systems, simulation tools, and visualization platforms.
 
