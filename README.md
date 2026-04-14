@@ -26,7 +26,7 @@
 </a>  
 
 ### Welcome to my Github profile!  
-I'm a Software Developer and a Computational Engineering enthusiast based in Lagos, Nigeria, with over 3 years of experience building web and mobile apps. I work mostly with JavaScript, TypeScript, Python, React, React Native, Next.js, and Nodejs, turning ideas and designs into clean, functional user interfaces.
+I'm a Software Developer and a Computational Engineering enthusiast based in Lagos, Nigeria, with over 3 years of experience building web and mobile apps. I work mostly with JavaScript, TypeScript, Python, React, React Native, Next.js, Angular,Vue.js and Nodejs, turning ideas and designs into clean, functional user interfaces.
 
 My work sits at the intersection of software, 3D graphics, and computational engineering. I enjoy developing systems where code interacts with geometry, physics, or real-world engineering problems. 
 
