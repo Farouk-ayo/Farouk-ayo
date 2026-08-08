@@ -67,6 +67,9 @@ I’m passionate about continuous learning, interdisciplinary collaboration, and
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="25" /></a>  
 </div>  
  
 <br/>
@@ -74,19 +77,12 @@ I’m passionate about continuous learning, interdisciplinary collaboration, and
 ## GitHub Stats:
 <table><tr><td valign="top" width="50%">
 
-![](https://github-readme-stats.vercel.app/api?username=farouk-ayo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-stats-extended.vercel.app/api?username=farouk-ayo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
 </td><td valign="top" width="50%">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farouk-ayo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=farouk-ayo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </td></tr>
 </table>  
 
-
-<!---![](https://github-readme-streak-stats.herokuapp.com/?user=farouk-ayo&theme=dark&hide_border=true)<br/>
-
----
-<!---
-[![](https://visitcount.itsvg.in/api?id=farouk-ayo&icon=0&color=0)](https://visitcount.itsvg.in)
--->
